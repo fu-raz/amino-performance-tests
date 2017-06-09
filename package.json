@@ -1,0 +1,14 @@
+{
+  "name": "amino-performance-tests",
+  "version": "1.0.0",
+  "description": "Testing Amino GFX performance",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rick van Modem",
+  "license": "ISC",
+  "dependencies": {
+    "aminogfx-gl": "^1.6.4"
+  }
+}
